@@ -1,2 +1,1 @@
-# istabraq
 Data analysis project
